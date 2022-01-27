@@ -1,0 +1,2 @@
+mnist
+cofar10
